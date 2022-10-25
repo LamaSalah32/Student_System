@@ -1,8 +1,8 @@
 <img src="profile_page/images/university.png" alt="university" width="100"/> 
 
 <b> This our traning project "Student System site" made using : </b>
-- <b> Frontend </b> : HTML, CSS, Javascript.
-- <b> Backend </b> : PHP.
+- <b> Frontend </b> : HTML, CSS, Javascript
+- <b> Backend </b> : PHP
 
 <b> Project Contributors : </b>
 - <a href="https://github.com/LamaSalah32"> Lama Salah </a>
